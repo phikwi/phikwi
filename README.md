@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phikwi
-- 👀 I’m interested in  fullstack web development
+- 👀 I’m interested web development
 
 
 
